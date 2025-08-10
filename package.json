@@ -2,9 +2,9 @@
   "name": "chaibackend",
   "version": "1.0.0",
   "description": "yeh mera first app hai backend k liyey",
-  "main": "index.js",
+  "main": "api/index.js",
   "scripts": {
-    "start": "node  /api/index.js"
+    "start": "node api/index.js"
   },
   "keywords": [
     "node",
