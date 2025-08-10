@@ -4,7 +4,7 @@
   "description": "yeh mera first app hai backend k liyey",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node  /api/index.js"
   },
   "keywords": [
     "node",
